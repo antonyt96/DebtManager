@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DebtManager</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="dob">MM/DD/YYYY</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="signup">Complete Registration</string>
+    <string name="welcome_string">Welcome</string>
+</resources>
